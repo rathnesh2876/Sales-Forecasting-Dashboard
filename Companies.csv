@@ -1,0 +1,578 @@
+Company_name,Company_type,Rating,num_emnployee,Num_reviews
+TCS,IT Services & Consulting ,3.8, 1 Lakh+ Employees ,69.3k
+Accenture,IT Services & Consulting ,4, 1 Lakh+ Employees ,43.9k
+Cognizant,IT Services & Consulting ,3.9, 1 Lakh+ Employees ,39.6k
+Wipro,IT Services & Consulting ,3.8, 1 Lakh+ Employees ,36.9k
+HDFC Bank,Banking ,3.9, 1 Lakh+ Employees ,31.8k
+ICICI Bank,Banking ,4, 1 Lakh+ Employees ,31.7k
+Infosys,IT Services & Consulting ,3.9, 1 Lakh+ Employees ,30k
+Capgemini,IT Services & Consulting ,3.8, 1 Lakh+ Employees ,27.9k
+HCLTech,IT Services & Consulting ,3.7, 1 Lakh+ Employees ,26.7k
+Tech Mahindra,IT Services & Consulting ,3.7, 1 Lakh+ Employees ,26.1k
+Genpact,IT Services & Consulting ,3.9, 1 Lakh+ Employees ,24.9k
+Axis Bank,Banking ,3.8, 50k-1 Lakh Employees ,20.8k
+Concentrix Corporation,BPO ,3.9, 50k-1 Lakh Employees ,20.6k
+Amazon,Internet ,4.1, 1 Lakh+ Employees ,19.8k
+Teleperformance,BPO ,3.6, 50k-1 Lakh Employees ,19.6k
+Reliance Jio,Telecom ,3.9, 50k-1 Lakh Employees ,19k
+IBM,Software Product ,4.1, 1 Lakh+ Employees ,18.9k
+Larsen & Toubro Limited,Engineering & Construction ,4, 10k-50k Employees ,17.7k
+Reliance Retail,Retail ,3.9, 1 Lakh+ Employees ,17.3k
+HDB Financial Services,NBFC ,4, 1 Lakh+ Employees ,16.7k
+BYJU'S,EdTech ,3.1, 10k-50k Employees ,13.9k
+Deloitte,Management Consulting ,3.9, 1 Lakh+ Employees ,13.7k
+Kotak Mahindra Bank,Banking ,3.8, 50k-1 Lakh Employees ,13.4k
+Bharti Airtel,Telecom ,4, 10k-50k Employees ,11.6k
+Tata Motors,Automobile ,4.2, 10k-50k Employees ,10.6k
+iEnergizer,BPO ,4.6, 10k-50k Employees ,10.3k
+Flipkart,Internet ,4.1, 10k-50k Employees ,9.3k
+WNS,BPO ,3.5, 10k-50k Employees ,9.1k
+IndusInd Bank,Banking ,3.7, 10k-50k Employees ,8.6k
+Mahindra & Mahindra,Automobile ,4.1, 1 Lakh+ Employees ,8.4k
+Ernst & Young,Management Consulting ,3.6, 50k-1 Lakh Employees ,8.4k
+AU Small Finance Bank,Banking ,4.5, 10k-50k Employees ,8.3k
+Infosys BPM,BPO ,3.9, 10k-50k Employees ,7.9k
+DXC Technology,IT Services & Consulting ,3.8, 10k-50k Employees ,7.8k
+IDFC FIRST Bank,Banking ,4, 10k-50k Employees ,7.6k
+Conneqt Business Solutions,BPO ,3.7, 10k-50k Employees ,7.3k
+HDFC Life,Insurance ,4, 10k-50k Employees ,7.2k
+LTIMindtree,IT Services & Consulting ,3.7, 50k-1 Lakh Employees ,7.1k
+Bajaj Finserv,Insurance ,4, 10k-50k Employees ,6.8k
+Mphasis,IT Services & Consulting ,3.5, 10k-50k Employees ,6.6k
+HSBC Group,Banking ,4.1, 10k-50k Employees ,6.6k
+PwC,Management Consulting ,3.6, 10k-50k Employees ,6.6k
+Samsung,Consumer Electronics & Appliances ,4.1, 5k-10k Employees ,6.5k
+Hinduja Global Solutions,IT Services & Consulting ,3.9, 10k-50k Employees ,6.5k
+Startek,BPO ,3.2, 10k-50k Employees ,6.5k
+Ericsson,10k-50k Employees ,4.3, Forbes Global 2000 ,6.3k
+Maruti Suzuki,Automobile ,4.2, 10k-50k Employees ,6.2k
+Yes Bank,Banking ,3.9, 10k-50k Employees ,6k
+Asian Paints,Chemicals ,4.1, 5k-10k Employees ,6k
+Cipla Pharmaceutical,Pharma ,4.1, 10k-50k Employees ,5.8k
+Dr. Reddy's,Pharma ,4.1, 10k-50k Employees ,5.8k
+Sutherland Global Services,IT Services & Consulting ,3.8, 10k-50k Employees ,5.7k
+EXL Service,Analytics & KPO ,3.8, 10k-50k Employees ,5.6k
+UltraTech Cement,Building Material ,4.2, 10k-50k Employees ,5.6k
+NTT DATA,10k-50k Employees ,4, 35 years old ,5.5k
+Bandhan Bank,Banking ,3.8, 50k-1 Lakh Employees ,5.4k
+ICICI Prudential Life Insurance,Insurance ,4.1, 10k-50k Employees ,5.4k
+TATA Steel,Iron & Steel ,4.1, 1 Lakh+ Employees ,5.4k
+Paytm,FinTech ,3.4, 10k-50k Employees ,5.4k
+Jana Small Finance Bank,Banking ,3.8, 10k-50k Employees ,5.3k
+Lupin,Pharma ,4.1, 10k-50k Employees ,5.2k
+HCL Group,IT Services & Consulting ,3.7, 1 Lakh+ Employees ,5.2k
+Indian Army,Defence & Aerospace ,4.7, 1 Lakh+ Employees ,5.1k
+Bajaj Finance,NBFC ,4, 10k-50k Employees ,5.1k
+Udaan,Internet ,4, 1k-5k Employees ,5.1k
+L&T Infotech,IT Services & Consulting ,3.8, 10k-50k Employees ,5k
+ITC,FMCG ,3.9, 10k-50k Employees ,4.9k
+Zydus Lifesciences,Pharma ,4.1, 10k-50k Employees ,4.9k
+Wells Fargo,Banking ,4.1, 10k-50k Employees ,4.8k
+Delhivery,10k-50k Employees ,4, Fortune India 500 ,4.8k
+JP Morgan Chase,Financial Services ,4.2, 50k-1 Lakh Employees ,4.8k
+Quess,Recruitment ,4, 1 Lakh+ Employees ,4.7k
+FIS,FinTech ,3.9, 10k-50k Employees ,4.7k
+Hindustan Unilever,FMCG ,4.2, 10k-50k Employees ,4.7k
+Amazon Development Centre India,Internet ,4.2, 10k-50k Employees ,4.7k
+IIFL Finance,NBFC ,3.9, 10k-50k Employees ,4.6k
+Hexaware Technologies,IT Services & Consulting ,3.7, 10k-50k Employees ,4.5k
+JSW Steel,Iron & Steel ,3.9, 10k-50k Employees ,4.4k
+Sun Pharmaceutical Industries,Pharma ,4.1, 10k-50k Employees ,4.4k
+Home Credit Finance,Financial Services ,4.1, 10k-50k Employees ,4.3k
+Ujjivan Small Finance Bank,Banking ,4.1, 10k-50k Employees ,4.2k
+Max Life Insurance,Insurance ,4.1, 10k-50k Employees ,4.2k
+Muthoot Finance,NBFC ,3.5, 10k-50k Employees ,4.2k
+Oracle,Software Product ,3.8, 50k-1 Lakh Employees ,4.2k
+Shapoorji Pallonji Group,Engineering & Construction ,4.2, 5k-10k Employees ,4.2k
+KPMG India,Management Consulting ,3.6, 10k-50k Employees ,4.1k
+Aurobindo Pharma,Pharma ,4, 10k-50k Employees ,4.1k
+OPPO,Consumer Electronics & Appliances ,3.9, 10k-50k Employees ,4.1k
+eClerx,IT Services & Consulting ,3.4, 10k-50k Employees ,4.1k
+Capgemini Technology Services India Limited,IT Services & Consulting ,4, 1 Lakh+ Employees ,4.1k
+Tata Projects,Engineering & Construction ,4.2, 5k-10k Employees ,4.1k
+Shriram Transport Finance,NBFC ,4.1, 10k-50k Employees ,4k
+Ashok Leyland,Automobile ,4.1, 5k-10k Employees ,4k
+Siemens,Power ,4.2, 5k-10k Employees ,4k
+Apollo Hospitals,Healthcare ,4.1, 10k-50k Employees ,4k
+JLL,Real Estate ,4.2, 10k-50k Employees ,4k
+Vivo,Consumer Electronics & Appliances ,4, 5k-10k Employees ,4k
+L&T Construction,Engineering & Construction ,4, 10k-50k Employees ,3.9k
+First Source,BPO ,3.8, 10k-50k Employees ,3.9k
+Omega Healthcare,Healthcare ,3.8, 10k-50k Employees ,3.9k
+JustDial,Internet ,3.5, 10k-50k Employees ,3.9k
+Hero MotoCorp,Automobile ,4.1, 5k-10k Employees ,3.8k
+Hewlett-Packard Enterprise,Emerging Technologies ,4.3, 10k-50k Employees ,3.8k
+Megha Engineering & Infrastructures,Engineering & Construction ,4, 5k-10k Employees ,3.7k
+Bajaj Allianz Life Insurance,Insurance ,4.1, 10k-50k Employees ,3.7k
+Mahindra & Mahindra Financial Services,NBFC ,4.3, 10k-50k Employees ,3.7k
+Cyient,IT Services & Consulting ,3.8, 10k-50k Employees ,3.7k
+ICICI Lombard General Insurance Company,Insurance ,3.8, 10k-50k Employees ,3.6k
+D Mart,Retail ,3.9, 10k-50k Employees ,3.6k
+Indiamart Intermesh,Internet ,3.6, 1k-5k Employees ,3.6k
+BigBasket,Internet ,4, 10k-50k Employees ,3.6k
+Coforge,IT Services & Consulting ,3.5, 10k-50k Employees ,3.5k
+Hyundai Motor,Automobile ,4.3, 10k-50k Employees ,3.5k
+Virtusa Consulting Services,IT Services & Consulting ,3.8, 10k-50k Employees ,3.5k
+TVS Motor,Automobile ,4, 5k-10k Employees ,3.5k
+Nagarro,IT Services & Consulting ,4.2, 10k-50k Employees ,3.4k
+Reliance Communications,Telecom ,3.9, 201-500 Employees ,3.4k
+Atos Syntel,IT Services & Consulting ,3.5, 5k-10k Employees ,3.4k
+UST,IT Services & Consulting ,3.9, 10k-50k Employees ,3.4k
+GlobalLogic,IT Services & Consulting ,3.8, 10k-50k Employees ,3.4k
+Manappuram Finance,NBFC ,3.9, 10k-50k Employees ,3.4k
+IQVIA,Clinical Research ,4.1, 10k-50k Employees ,3.4k
+Bosch,Auto Components ,4.3, 10k-50k Employees ,3.4k
+Bosch Global Software Technologies,Software Product ,4.2, 10k-50k Employees ,3.4k
+Equitas Small Finance Bank,Banking ,4.3, 10k-50k Employees ,3.4k
+Cummins,Auto Components ,4.4, 5k-10k Employees ,3.4k
+SBI Cards & Payment Services,1k-5k Employees ,3.7, 25 years old ,3.3k
+Oyo Rooms,Hospitality ,3.4, 1k-5k Employees ,3.3k
+BNY Mellon,Investment Banking / Venture Capital / Private Equity ,4.1, 10k-50k Employees ,3.3k
+BT Group,Telecom ,4.1, 10k-50k Employees ,3.3k
+SMFG India Credit,NBFC ,4.1, 10k-50k Employees ,3.3k
+Amdocs,Software Product ,4, 10k-50k Employees ,3.3k
+Schneider Electric,Industrial Automation ,4.1, 10k-50k Employees ,3.2k
+Cholamandalam Investment & Finance,NBFC ,4.1, 10k-50k Employees ,3.2k
+CBRE,Real Estate ,4.2, 10k-50k Employees ,3.2k
+L&T Technology Services,IT Services & Consulting ,3.4, 10k-50k Employees ,3.2k
+Future Group,Retail ,4.3, 10k-50k Employees ,3.2k
+State Bank of India,Banking ,3.7, 1 Lakh+ Employees ,3.1k
+Ekart Logistics,Logistics ,4, 5k-10k Employees ,3.1k
+Swiggy,Internet ,3.9, 5k-10k Employees ,3.1k
+JBM Group,Auto Components ,4, 1k-5k Employees ,3.1k
+Dell,Consumer Electronics & Appliances ,4.1, 10k-50k Employees ,3.1k
+Ecom Express,Logistics ,4, 10k-50k Employees ,3.1k
+SBI Life Insurance Company,Insurance ,3.8, 10k-50k Employees ,3k
+Bajaj Auto,Automobile ,3.9, 5k-10k Employees ,3k
+Optum,Healthcare ,4, 10k-50k Employees ,3k
+Nagarjuna Construction Company,Engineering & Construction ,4.1, 5k-10k Employees ,3k
+KEC International,Engineering & Construction ,4.1, 5k-10k Employees ,3k
+Aditya Birla Fashion and Retail,Fashion & Textile ,4.2, 10k-50k Employees ,2.9k
+Muthoot Fincorp,NBFC ,4, 10k-50k Employees ,2.9k
+Viatris,Pharma ,4.2, 10k-50k Employees ,2.9k
+Piramal Capital Housing Finance,NBFC ,4.2, 1k-5k Employees ,2.9k
+Samvardhana Motherson Group,Auto Components ,3.8, 1k-5k Employees ,2.9k
+Royal Enfield,Automobile ,4.2, 10k-50k Employees ,2.9k
+Tata Communications,Telecom ,4.1, 5k-10k Employees ,2.9k
+Godrej & Boyce Manufacturing,Engineering & Construction ,3.9, 10k-50k Employees ,2.8k
+L&T Finance,NBFC ,4, 10k-50k Employees ,2.8k
+LG Electronics,Consumer Electronics & Appliances ,4, 10k-50k Employees ,2.8k
+John Deere,Industrial Machinery ,4.3, 5k-10k Employees ,2.8k
+Intas Pharmaceuticals,Pharma ,4.2, 10k-50k Employees ,2.8k
+Whitehat jr,EdTech ,3.5, 5k-10k Employees ,2.7k
+Varun Beverages,Beverage ,4, 5k-10k Employees ,2.7k
+Thermax Limited,Industrial Machinery ,4.2, 1k-5k Employees ,2.7k
+Randstad,Recruitment ,3.9, 5k-10k Employees ,2.7k
+Hetero Drugs,Pharma ,3.8, 1k-5k Employees ,2.7k
+Deutsche Bank,Banking ,4.1, 10k-50k Employees ,2.7k
+Persistent Systems,IT Services & Consulting ,3.8, 10k-50k Employees ,2.7k
+Havells,Electrical Equipment ,4.1, 5k-10k Employees ,2.7k
+Ford Motor,Automobile ,4.4, 5k-10k Employees ,2.7k
+Sodexo,Facility Management Services ,4.1, 10k-50k Employees ,2.7k
+Abbott Healthcare,Pharma ,4.1, 10k-50k Employees ,2.7k
+Subros,Auto Components ,3.9, 1k-5k Employees ,2.7k
+Macleods Pharmaceuticals,Pharma ,3.8, 10k-50k Employees ,2.6k
+CARS24,Internet ,3.6, 5k-10k Employees ,2.6k
+VE Commercial Vehicles,Automobile ,4, 1k-5k Employees ,2.6k
+Automatic Data Processing (ADP),Software Product ,4.1, 1k-5k Employees ,2.6k
+American Express,Financial Services ,4.3, 10k-50k Employees ,2.6k
+UnitedHealth,Healthcare ,4.1, 10k-50k Employees ,2.6k
+Kogta Financial India Limited,NBFC ,4.8, 1k-5k Employees ,2.6k
+Team Lease,Recruitment ,3.9, 1k-5k Employees ,2.6k
+Standard Chartered Bank,Banking ,3.9, 10k-50k Employees ,2.6k
+Indian Oil Corporation,Oil & Gas ,4.4, 10k-50k Employees ,2.5k
+Cgi Group,IT Services & Consulting ,4.1, 10k-50k Employees ,2.5k
+Pidilite Industries,Chemicals ,4.4, 5k-10k Employees ,2.5k
+Bharat Electronics,Electronics Manufacturing ,4.1, 5k-10k Employees ,2.5k
+Atos,IT Services & Consulting ,3.8, 10k-50k Employees ,2.5k
+Publicis Sapient,IT Services & Consulting ,3.6, 10k-50k Employees ,2.5k
+Hindalco Industries,Metals & Mining ,4.2, 10k-50k Employees ,2.5k
+Alkem Laboratories,Pharma ,3.9, 10k-50k Employees ,2.5k
+Alembic Pharmaceuticals,Pharma ,4, 10k-50k Employees ,2.5k
+Indian Air Force,Defence & Aerospace ,4.6, 1 Lakh+ Employees ,2.5k
+R1 RCM,Healthcare ,3.9, 5k-10k Employees ,2.5k
+Access Healthcare,IT Services & Consulting ,3.9, 5k-10k Employees ,2.5k
+DCB Bank,Banking ,3.9, 5k-10k Employees ,2.5k
+Hindustan Coca Cola Beverages,Beverage ,4.3, 5k-10k Employees ,2.4k
+ITC Infotech,IT Services & Consulting ,3.6, 10k-50k Employees ,2.4k
+Wipro Infotech,IT Services & Consulting ,4, 1 Lakh+ Employees (Global) ,2.4k
+Barclays,Banking ,4.1, 10k-50k Employees ,2.4k
+Vishal Mega Mart,Retail ,3.8, 10k-50k Employees ,2.4k
+Tata AIA Life Insurance,Insurance ,4.1, 10k-50k Employees ,2.4k
+Maersk,Other ,4.3, 10k-50k Employees ,2.4k
+ABB Group,Electrical Equipment ,4.1, 1k-5k Employees ,2.4k
+Aakash Educational Services,EdTech ,3.6, 10k-50k Employees ,2.4k
+Glenmark Pharmaceuticals,Pharma ,4, 10k-50k Employees ,2.4k
+Ipca Laboratories,Pharma ,4, 10k-50k Employees ,2.4k
+Wipro Consumer Care & Lighting,FMCG ,3.8, 1k-5k Employees ,2.4k
+NatWest Group,Banking ,4.1, 10k-50k Employees ,2.4k
+Bank of America,Banking ,4.4, 10k-50k Employees ,2.4k
+Axis Direct,Financial Services ,3.9, 1k-5k Employees ,2.4k
+CMS IT Services,IT Services & Consulting ,3.1, 5k-10k Employees ,2.4k
+Aarti Industries,Agro Chemicals ,4.1, 5k-10k Employees ,2.3k
+MRF Tyres,Auto Components ,3.7, 10k-50k Employees ,2.3k
+DTDC Express,Logistics ,3.8, 1k-5k Employees ,2.3k
+Honda Motorcycle & Scooter,Automobile ,4.2, 10k-50k Employees ,2.3k
+Paras Hospital,Healthcare ,4.6, 5k-10k Employees ,2.3k
+Utkarsh Small Finance Bank,Banking ,3.9, 10k-50k Employees ,2.3k
+24/7 Customer,BPO ,3.6, 5k-10k Employees ,2.3k
+Reliance Nippon Life Insurance,Insurance ,3.9, 10k-50k Employees ,2.3k
+Jindal Steel and Power,Iron & Steel ,3.9, 5k-10k Employees ,2.3k
+Berger Paints,Chemicals ,3.7, 1k-5k Employees ,2.3k
+HDFC Ergo General Insurance,Insurance ,4, 10k-50k Employees ,2.3k
+PolicyBazaar,Internet ,3.4, 10k-50k Employees ,2.3k
+Escorts Kubota Limited,Automobile ,4.1, 1k-5k Employees ,2.3k
+Conduent,BPO ,3.6, 5k-10k Employees ,2.3k
+RBL Bank,Banking ,3.7, 10k-50k Employees ,2.3k
+Carelon Global Solutions,IT Services & Consulting ,4, 5k-10k Employees ,2.3k
+Kotak Mahindara Life Insurance,Insurance ,3.9, 10k-50k Employees ,2.3k
+GeBBS Healthcare Solutions,BPO ,3.7, 5k-10k Employees ,2.3k
+PNB MetLife,Insurance ,3.4, 5k-10k Employees ,2.3k
+Cogent E Services,BPO ,3.3, 10k-50k Employees ,2.3k
+Ceat Tyres,Auto Components ,4, 5k-10k Employees ,2.2k
+GATI-KWE,Logistics ,4, 1k-5k Employees ,2.2k
+Indiabulls Home Loans,NBFC ,3.8, 5k-10k Employees ,2.2k
+Marpu Foundation,Non-Profit ,4.8, 11-50 Employees ,2.2k
+Shoppers Stop,Retail ,4.2, 5k-10k Employees ,2.2k
+Dabur,FMCG ,3.8, 5k-10k Employees ,2.2k
+Reliance Digital,Retail ,4.2, 5k-10k Employees ,2.2k
+ACC,Building Material ,3.9, 5k-10k Employees ,2.2k
+JK Cement,Building Material ,4.1, 1k-5k Employees ,2.2k
+IndiGo,Aviation ,3.6, 10k-50k Employees ,2.2k
+Jubilant Foods Works,Food Processing ,3.8, 10k-50k Employees ,2.2k
+S&P Global,IT Services & Consulting ,4.2, 5k-10k Employees ,2.2k
+Torrent Pharmaceuticals,Pharma ,3.9, 10k-50k Employees ,2.1k
+HARMAN,Consumer Electronics & Appliances ,3.8, 5k-10k Employees ,2.1k
+Birlasoft,IT Services & Consulting ,3.7, 10k-50k Employees ,2.1k
+Reliance SMSL,BPO ,4, 1k-5k Employees ,2.1k
+ArcelorMittal Nippon Steel,Iron & Steel ,4, 5k-10k Employees ,2.1k
+Synechron,IT Services & Consulting ,3.9, 5k-10k Employees ,2.1k
+KPIT Technologies,Software Product ,3.6, 5k-10k Employees ,2.1k
+Titan Company,Retail ,4.4, 5k-10k Employees ,2.1k
+Square Yards,Real Estate ,3.9, 1k-5k Employees ,2.1k
+Lenskart,Internet ,3.2, 5k-10k Employees ,2.1k
+Bajaj Electricals,Consumer Electronics & Appliances ,4.1, 1k-5k Employees ,2.1k
+UPL,Agro Chemicals ,4.1, 5k-10k Employees ,2.1k
+Wipro Enterprises Ltd,IT Services & Consulting ,3.9, 501-1k Employees ,2.1k
+Simplex Infrastructures,Engineering & Construction ,3.3, 1k-5k Employees ,2.1k
+Statestreet HCL Services,BPO ,3.2, 5k-10k Employees ,2.1k
+Dilip Buildcon,Engineering & Construction ,4, 10k-50k Employees ,2.1k
+RSPL Group,FMCG ,4.1, 10k-50k Employees ,2.1k
+Patanjali Ayurved,FMCG ,4, 5k-10k Employees ,2.1k
+Tech Mahindra Business Services,BPO ,3.5, 5k-10k Employees ,2.1k
+Tata AIG,Insurance ,4.1, 5k-10k Employees ,2.1k
+AGS Health,BPO ,4, 10k-50k Employees ,2.1k
+Domino's Pizza,Hospitality ,4, 1k-5k Employees ,2k
+Apollo Tyres,Auto Components ,4.1, 10k-50k Employees ,2k
+Huawei Technologies,Telecom ,4, 51-200 Employees ,2k
+KocharTech,IT Services & Consulting ,4.2, 1k-5k Employees ,2k
+Capita,IT Services & Consulting ,3.8, 5k-10k Employees ,2k
+Flex,Electronics Manufacturing ,4.1, 5k-10k Employees ,2k
+Alstom Transportation,Engineering & Construction ,3.9, 5k-10k Employees ,2k
+AFCONS Infrastructure,Engineering & Construction ,4.4, 5k-10k Employees ,2k
+Suzlon Group,Power ,4.1, 5k-10k Employees ,2k
+McDonald's,Hospitality ,4.2, 5k-10k Employees ,2k
+IGT Solutions,BPO ,3.3, 5k-10k Employees ,2k
+EY Global Delivery Services ( EY GDS),Accounting & Auditing ,3.7, 50k-1 Lakh Employees ,2k
+Mankind Pharma,Pharma ,4.1, 10k-50k Employees ,2k
+TVS Credit,NBFC ,4.4, 10k-50k Employees ,2k
+Zensar Technologies,IT Services & Consulting ,3.8, 5k-10k Employees ,2k
+Birla Sun Life Insurance,Insurance ,4.2, 10k-50k Employees ,2k
+Lava International,Consumer Electronics & Appliances ,4.1, 1k-5k Employees ,2k
+Max Healthcare,Healthcare ,4.1, 1k-5k Employees ,2k
+Tata Technologies,Engineering & Construction ,3.7, 5k-10k Employees ,1.9k
+Bajaj Allianz General Insurance,Insurance ,4, 5k-10k Employees ,1.9k
+Taj Hotels Resorts and Palaces,Hospitality ,4.2, 10k-50k Employees ,1.9k
+State Street Syntel,Financial Services ,3.7, 501-1k Employees ,1.9k
+Walmart,Retail ,4, 5k-10k Employees ,1.9k
+State Street Corporation,Financial Services ,3.8, 10k-50k Employees ,1.9k
+Landmark Group,Retail ,4, 1k-5k Employees ,1.9k
+Blue Dart Express,Logistics ,4.1, 10k-50k Employees ,1.9k
+Tractors and Farm Equipment,Automobile ,4.1, 5k-10k Employees ,1.9k
+ElasticRun,Logistics ,3.3, 1k-5k Employees ,1.9k
+Nestle,Food Processing ,4.1, 5k-10k Employees ,1.9k
+Nokia,Telecom ,4.2, 10k-50k Employees ,1.9k
+Grasim Industries,Building Material ,4, 10k-50k Employees ,1.9k
+HDFC Sales,Financial Services ,4, 10k-50k Employees ,1.9k
+Societe Generale,Financial Services ,3.9, 1k-5k Employees ,1.9k
+I Process Services,Recruitment ,3.8, 1k-5k Employees ,1.9k
+Fiserv,FinTech ,3.7, 5k-10k Employees ,1.9k
+Fortis Healthcare,Healthcare ,4, 5k-10k Employees ,1.9k
+G4S,Law Enforcement & Security ,4, 1 Lakh+ Employees ,1.9k
+BlackBuck,Logistics ,3.8, 1k-5k Employees ,1.9k
+UNO Minda,Auto Components ,4, 201-500 Employees ,1.9k
+Johnson Controls,Industrial Automation ,3.3, 5k-10k Employees ,1.9k
+Ola Cabs,Internet ,3.5, 1k-5k Employees ,1.8k
+KFintech,FinTech ,3.6, 5k-10k Employees ,1.8k
+Croma,Retail ,4.1, 5k-10k Employees ,1.8k
+Britannia,Food Processing ,4.1, 1k-5k Employees ,1.8k
+Voltas,Consumer Electronics & Appliances ,4, 1k-5k Employees ,1.8k
+Micro Labs,Pharma ,3.7, 10k-50k Employees ,1.8k
+Lifestyle,Retail ,4.4, 10k-50k Employees ,1.8k
+TVS Supply Chain Solutions,Logistics ,3.9, 1k-5k Employees ,1.8k
+IDFC FIRST Bharat,NBFC ,4.5, 5k-10k Employees ,1.8k
+Exide Industries,Auto Components ,3.5, 5k-10k Employees ,1.8k
+Extramarks Education,EdTech ,3.5, 1k-5k Employees ,1.8k
+Radisson Hotels,Hospitality ,4, 10k-50k Employees ,1.8k
+Eureka Forbes,Consumer Electronics & Appliances ,3.9, 1k-5k Employees ,1.8k
+Future Retail,Retail ,4.3, 10k-50k Employees ,1.8k
+PepsiCo,Food Processing ,4.1, 1 Lakh+ Employees ,1.8k
+Aditya Birla Group,Retail ,4.1, 10k-50k Employees ,1.8k
+Quest Global,IT Services & Consulting ,3.6, 10k-50k Employees ,1.8k
+Sterlite Technologies,Hardware & Networking ,3.9, 1k-5k Employees ,1.7k
+The Himalaya Drug Company,Pharma ,4.1, 5k-10k Employees ,1.7k
+JMC Projects,Engineering & Construction ,4.2, 1k-5k Employees ,1.7k
+ACT Fibernet,Telecom ,4.1, 5k-10k Employees ,1.7k
+Shree Cement,Building Material ,4, 5k-10k Employees ,1.7k
+Ajanta Pharma,Pharma ,4, 5k-10k Employees ,1.7k
+Dalmia Bharat Cement,Building Material ,4, 5k-10k Employees ,1.7k
+Rivigo,Internet ,3.9, 1k-5k Employees ,1.7k
+IKS Health,Healthcare ,3.6, 5k-10k Employees ,1.7k
+Blue Star,Consumer Electronics & Appliances ,4, 1k-5k Employees ,1.7k
+Nokia Networks,Hardware & Networking ,4.3, 501-1k Employees ,1.7k
+Yazaki,10k-50k Employees ,3.8, 82 years old ,1.7k
+Life Insurance Corporation of India,Insurance ,4.3, 1 Lakh+ Employees ,1.7k
+Cholamandalam MS General Insurance,Insurance ,3.9, 1k-5k Employees ,1.7k
+Delhi Public School,Education & Training ,3.9, 1k-5k Employees ,1.7k
+Ninjacart,Agriculture ,4.1, 1k-5k Employees ,1.7k
+Tata Teleservices,Telecom ,4.1, 201-500 Employees ,1.7k
+Sonalika Tractors,Automobile ,3.7, 1k-5k Employees ,1.7k
+Kyndryl,IT Services & Consulting ,4.1, 10k-50k Employees ,1.7k
+Zomato,Internet ,3.7, 1k-5k Employees ,1.7k
+XpressBees,Logistics ,3.8, 5k-10k Employees ,1.7k
+Pfizer,Pharma ,4.1, 5k-10k Employees ,1.7k
+Emcure Pharmaceuticals,Pharma ,3.8, 5k-10k Employees ,1.7k
+Renault-Nissan,Automobile ,4.1, 10k-50k Employees ,1.7k
+Mahindra Logistics,Logistics ,4.1, 1k-5k Employees ,1.6k
+DS Group,FMCG ,4, 1k-5k Employees ,1.6k
+Datamatics Global Services,IT Services & Consulting ,3.6, 5k-10k Employees ,1.6k
+Kalpataru Power Transmission,Engineering & Construction ,4.1, 1k-5k Employees ,1.6k
+Myntra,Internet ,4, 1k-5k Employees ,1.6k
+Indus Towers,Telecom ,4, 1k-5k Employees ,1.6k
+PVR Cinemas,Media & Entertainment ,4.1, 1k-5k Employees ,1.6k
+V-Mart,Retail ,4.2, 5k-10k Employees ,1.6k
+Parle Agro,Beverage ,4.2, 1k-5k Employees ,1.6k
+Mahindra Holidays & Resorts,Hospitality ,3.6, 5k-10k Employees ,1.6k
+Movate,IT Services & Consulting ,3.5, 1k-5k Employees ,1.6k
+BHEL,Electrical Equipment ,4.1, 10k-50k Employees ,1.6k
+SRF,Chemicals ,4.2, 5k-10k Employees ,1.6k
+Indian Railways,Railways ,4.1, 1 Lakh+ Employees ,1.6k
+Raymond,Fashion & Textile ,4.1, 5k-10k Employees ,1.6k
+Kansai Nerolac Paints,Chemicals ,3.8, 1k-5k Employees ,1.6k
+Info Edge,Internet ,4.1, 5k-10k Employees ,1.6k
+Reliance Trends,Retail ,4.3, 1 Lakh+ Employees ,1.6k
+Motilal Oswal Financial Services,Financial Services ,3.7, 5k-10k Employees ,1.6k
+ICICI Securities,Financial Services ,3.8, 1k-5k Employees ,1.6k
+Cybage,IT Services & Consulting ,4, 5k-10k Employees ,1.6k
+Shell,Oil & Gas ,4.3, 5k-10k Employees ,1.6k
+Ambuja Cements,Building Material ,3.9, 5k-10k Employees ,1.6k
+Poonawalla Fincorp,NBFC ,3.9, 1k-5k Employees ,1.6k
+Kalyan Jewellers,Jewellery ,4.8, 5k-10k Employees ,1.6k
+MSN Laboratories,Pharma ,3.8, 10k-50k Employees ,1.6k
+KPMG Global Services,Bengaluru/Bangalore +25 more,3.7,,1.6k
+HCL Infosystems,IT Services & Consulting ,4, 51-200 Employees ,1.5k
+Cadila Pharmaceuticals,Pharma ,3.3, 5k-10k Employees ,1.5k
+Fujitsu,IT Services & Consulting ,3.9, 5k-10k Employees ,1.5k
+GlaxoSmithKline Pharmaceuticals,Pharma ,4.2, 1k-5k Employees ,1.5k
+ZS,Management Consulting ,3.5, 5k-10k Employees ,1.5k
+Whirlpool,Consumer Electronics & Appliances ,4.1, 1k-5k Employees ,1.5k
+Force Motors,Automobile ,3.5, 1k-5k Employees ,1.5k
+Blinkit,Internet ,3.8, 1k-5k Employees ,1.5k
+3i Infotech,IT Services & Consulting ,3.5, 1k-5k Employees ,1.5k
+JCB,Industrial Machinery ,3.9, 1k-5k Employees ,1.5k
+Shriram City,Financial Services ,4.1, 50k-1 Lakh Employees ,1.5k
+Shahi Exports,Retail ,4, 1 Lakh+ Employees ,1.5k
+Syngene International,Pharma ,3.9, 1k-5k Employees ,1.5k
+Endurance Technologies,Auto Components ,3.8, 1k-5k Employees ,1.5k
+Tata Elxsi,IT Services & Consulting ,4.1, 10k-50k Employees ,1.5k
+Kent RO Systems,Consumer Electronics & Appliances ,4.1, 1k-5k Employees ,1.5k
+Delphi TVS,Auto Components ,4, 1k-5k Employees ,1.5k
+Dhani Loans and Services,NBFC ,3.8, 1k-5k Employees ,1.5k
+Lodha group,Real Estate ,4.1, 1k-5k Employees ,1.5k
+Bharti AXA Life Insurance,Insurance ,3.9, 5k-10k Employees ,1.5k
+Sobha,Real Estate ,4, 1k-5k Employees ,1.5k
+GVK Emergency Management and Research Institute,Non-Profit ,3.7, 10k-50k Employees ,1.5k
+Foundever,BPO ,3.9, 5k-10k Employees ,1.5k
+ITC Hotels,Hospitality ,4.1, 5k-10k Employees ,1.5k
+Sterling & Wilson,Engineering & Construction ,4.1, 501-1k Employees ,1.5k
+Bharat Petroleum,Oil & Gas ,4.1, 5k-10k Employees ,1.5k
+CAMS,IT Services & Consulting ,3.7, 5k-10k Employees ,1.5k
+Brakes India,Auto Components ,4, 501-1k Employees ,1.5k
+NoBroker,Internet ,3.2, 1k-5k Employees ,1.5k
+suzuki motor gujarat,Fortune India 500 ,4.3, Becharaji +71 more,1.5k
+Future Generali India Life Insurance,Insurance ,3.8, 1k-5k Employees ,1.5k
+Bureau Veritas,Other ,3.9, 1k-5k Employees ,1.5k
+Aavas Financiers,Financial Services ,4, 5k-10k Employees ,1.5k
+Varroc Group,Auto Components ,3.8, 1k-5k Employees ,1.5k
+Fincare Small Finance Bank,NBFC ,4, 5k-10k Employees ,1.5k
+Jindal Stainless,Iron & Steel ,4.2, 1k-5k Employees ,1.5k
+Care Health Insurance,Internet ,3.7, 5k-10k Employees ,1.4k
+Coromandel International,Agriculture ,4.1, 5k-10k Employees ,1.4k
+JK Tyres,Auto Components ,3.7, 1k-5k Employees ,1.4k
+café Coffee day,Hospitality ,3.9, 1k-5k Employees ,1.4k
+Citicorp,Financial Services ,3.8, 1k-5k Employees ,1.4k
+Sopra Steria,IT Services & Consulting ,4, 5k-10k Employees ,1.4k
+Mahindra Rural Housing Finance,Financial Services ,4.1, 5k-10k Employees ,1.4k
+Cisco,Hardware & Networking ,4.4, 10k-50k Employees ,1.4k
+Unacademy,EdTech ,3.4, 1k-5k Employees ,1.4k
+VVDN Technologies,IT Services & Consulting ,3.6, 5k-10k Employees ,1.4k
+Tata Motors Finance,NBFC ,4.1, 1k-5k Employees ,1.4k
+Gallagher,Insurance ,3.9, 10k-50k Employees ,1.4k
+Canara HSBC Life Insurance,Insurance ,3.8, 5k-10k Employees ,1.4k
+PhonePe,FinTech ,4.1, 5k-10k Employees ,1.4k
+Gabriel India,Auto Components ,4.2, 1k-5k Employees ,1.4k
+Taurus BPO Services,1k-5k Employees ,4.6, 8 years old ,1.4k
+Adani Wilmar,FMCG ,4.2, 1k-5k Employees ,1.4k
+ABC,Broadcasting ,3.9, 1k-5k Employees (Global) ,1.4k
+UpGrad,EdTech ,4, 1k-5k Employees ,1.4k
+RMSI,IT Services & Consulting ,3.8, 1k-5k Employees ,1.4k
+Thomson Reuters,Legal ,4.1, 5k-10k Employees ,1.4k
+Power Mech Projects,Engineering & Construction ,3.8, 1k-5k Employees ,1.4k
+Lucas-TVS,Auto Components ,4, 5k-10k Employees ,1.4k
+Indian Navy,Defence & Aerospace ,4.6, 50k-1 Lakh Employees ,1.4k
+Star Health & Allied Insurance,Insurance ,3.8, 10k-50k Employees ,1.4k
+Bank of Baroda,Banking ,3.6, 50k-1 Lakh Employees ,1.4k
+SAP,Software Product ,4.3, 10k-50k Employees ,1.4k
+ValueLabs,IT Services & Consulting ,3.9, 5k-10k Employees ,1.4k
+Google,Internet ,4.4, 10k-50k Employees ,1.4k
+IntouchCX,BPO ,3, 5k-10k Employees ,1.4k
+Planet Spark,EdTech ,3.8, 51-200 Employees ,1.4k
+Renault Nissan Technology & Business Centre India,Auto Components ,3.8, 5k-10k Employees ,1.4k
+Straive,EdTech ,3.5, 5k-10k Employees ,1.4k
+Parle Products,Food Processing ,3.9, 1k-5k Employees ,1.4k
+DBS Bank,Banking ,3.8, 5k-10k Employees ,1.4k
+Tata Capital Financial Services,NBFC ,4.3, 5k-10k Employees ,1.4k
+Allsec Technologies,BPO ,3.9, 5k-10k Employees ,1.4k
+Honda,Automobile ,4.1, 10k-50k Employees ,1.4k
+AECOM,Engineering & Construction ,4.2, 1k-5k Employees ,1.4k
+TVS Sundram Fasteners,Auto Components ,3.7, 1k-5k Employees ,1.4k
+Citibank,Banking ,4, 1-10 Employees ,1.4k
+Laurus Labs,Pharma ,4.2, 5k-10k Employees ,1.4k
+Uflex,Packaging ,3.8, 5k-10k Employees ,1.4k
+Big Bazaar,Retail ,4.2, 10k-50k Employees ,1.4k
+Cargill,1k-5k Employees ,4.1, Conglomerate ,1.3k
+Hindustan Aeronautics,Defence & Aerospace ,4.3, 10k-50k Employees ,1.3k
+SGS,1k-5k Employees ,3.9, Forbes Global 2000 ,1.3k
+KIA MOTORS,Automobile ,3.8, 1k-5k Employees ,1.3k
+IDBI Bank,Banking ,3.8, 10k-50k Employees ,1.3k
+AXA Business Services,Insurance ,3.8, 501-1k Employees ,1.3k
+BA Continuum,NBFC ,4.3, 10k-50k Employees ,1.3k
+CMA CGM,Ports & Shipping ,4.1, 501-1k Employees ,1.3k
+Adani Power,Power ,3.9, 1k-5k Employees ,1.3k
+Wockhardt,Pharma ,3.8, 5k-10k Employees ,1.3k
+Vedantu,EdTech ,3.3, 1k-5k Employees ,1.3k
+Hero FinCorp,NBFC ,4.2, 5k-10k Employees ,1.3k
+Novartis,Pharma ,4.1, 1k-5k Employees ,1.3k
+Xoriant,IT Services & Consulting ,3.9, 1k-5k Employees ,1.3k
+Philips,Consumer Electronics & Appliances ,3.9, 5k-10k Employees ,1.3k
+Sify Technologies,IT Services & Consulting ,4, 1k-5k Employees ,1.3k
+Kotak Securities,Financial Services ,3.7, 5k-10k Employees ,1.3k
+Dr Lal PathLabs,Healthcare ,4.2, 1k-5k Employees ,1.3k
+Reliance General Insurance,Insurance ,3.8, 5k-10k Employees ,1.3k
+Intellect Design Arena,FinTech ,4, 5k-10k Employees ,1.3k
+Meesho,Internet ,3.7, 5k-10k Employees ,1.3k
+Akums Drugs & Pharmaceuticals,Pharma ,4, 10k-50k Employees ,1.3k
+Microsoft Corporation,Software Product ,4.2, 5k-10k Employees ,1.3k
+Vardhman Fabrics,Fashion & Textile ,4.1, 10k-50k Employees ,1.3k
+MetLife,Insurance ,4.3, 1k-5k Employees ,1.3k
+Tata Play,Broadcasting ,4.1, 5k-10k Employees ,1.3k
+PHN Technology,Pune +29 more,4.6,,1.3k
+Honeywell Automation,Consumer Electronics & Appliances ,3.8, 10k-50k Employees ,1.3k
+Aragen Life Sciences,Pharma ,4.1, 1k-5k Employees ,1.3k
+XL Dynamics,IT Services & Consulting ,3.3, 1k-5k Employees ,1.3k
+Narayana Health,Healthcare ,4.2, 10k-50k Employees ,1.3k
+Crisil,Financial Services ,3.8, 1k-5k Employees ,1.3k
+TCE,Engineering & Construction ,3.7, 5k-10k Employees ,1.3k
+SBI General Insurance,Insurance ,3.8, 5k-10k Employees ,1.3k
+Bhushan Power & Steel,Iron & Steel ,4, 5k-10k Employees ,1.3k
+Biological E,Biotechnology ,4.2, 1k-5k Employees ,1.3k
+YASH Technologies,IT Services & Consulting ,3.8, 5k-10k Employees ,1.3k
+Frankfinn Institute of Air Hostess Training,Education & Training ,4, 1k-5k Employees ,1.3k
+Microland,IT Services & Consulting ,3.6, 1k-5k Employees ,1.3k
+ESAF Microfinance & Investments (P),Financial Services ,3.9, 1k-5k Employees ,1.3k
+NCR Corporation,IT Services & Consulting ,4.1, 5k-10k Employees ,1.3k
+Safexpress,Logistics ,4.1, 1k-5k Employees ,1.3k
+Optum Global Solutions,IT Services & Consulting ,4.1, 1k-5k Employees ,1.3k
+G R Infraprojects,Engineering & Construction ,4.2, 10k-50k Employees ,1.3k
+CMS Infosystems,IT Services & Consulting ,3.5, 5k-10k Employees ,1.3k
+Yamaha Motor,Automobile ,4.1, 1k-5k Employees ,1.3k
+HERE Technologies,IT Services & Consulting ,3.8, 1k-5k Employees ,1.3k
+Amazon Transportation Services,Logistics ,4.1, 1k-5k Employees ,1.3k
+Spark Minda,Auto Components ,3.8, 1k-5k Employees ,1.3k
+SS&C TECHNOLOGIES,IT Services & Consulting ,3.6, 5k-10k Employees ,1.3k
+R.R. Donnelley,Marketing & Advertising ,4, 5k-10k Employees ,1.2k
+Exl India,IT Services & Consulting ,3.6, 11-50 Employees ,1.2k
+Matrimony.com,Internet ,4.4, 1k-5k Employees ,1.2k
+Metro,Retail ,4.1, 1k-5k Employees ,1.2k
+Reckitt Benckiser,FMCG ,4.1, 1k-5k Employees ,1.2k
+Angel One,Financial Services ,3.9, 1k-5k Employees ,1.2k
+Cavinkare,FMCG ,4, 1k-5k Employees ,1.2k
+CitiusTech,IT Services & Consulting ,3.5, 1k-5k Employees ,1.2k
+Niva Bupa Health Insurance Company,Insurance ,3.7, 5k-10k Employees ,1.2k
+Procter & Gamble,FMCG ,4.2, 1k-5k Employees ,1.2k
+Innovsource Services,Recruitment ,3.9, 1k-5k Employees ,1.2k
+Panasonic Life Solutions,Electrical Equipment ,4, 1k-5k Employees ,1.2k
+Honeywell Technology Solutions,Defence & Aerospace ,3.8, 10k-50k Employees ,1.2k
+KONE,Industrial Machinery ,4.2, 5k-10k Employees ,1.2k
+Sigma Electric Manufacturing Corporation,Industrial Machinery ,4, 1k-5k Employees ,1.2k
+Oberoi Group of Hotels,Hospitality ,4.2, 1k-5k Employees ,1.2k
+Adecco Group,Recruitment ,3.7, 1k-5k Employees ,1.2k
+USV,Pharma ,4, 1k-5k Employees ,1.2k
+Mercedes-Benz Research & Development India,Automobile ,4, 5k-10k Employees ,1.2k
+USHA International,Consumer Electronics & Appliances ,4.2, 1k-5k Employees ,1.2k
+Hyatt Regency,Hospitality ,4.1, 1k-5k Employees ,1.2k
+Allstate,IT Services & Consulting ,4, 5k-10k Employees ,1.2k
+Chegg,EdTech ,4.3, 501-1k Employees ,1.2k
+Torrent Power,Power ,3.7, 5k-10k Employees ,1.2k
+Credit Suisse,10k-50k Employees ,4.2, 167 years old ,1.2k
+DIVI'S Laboratories,Healthcare ,3.8, 10k-50k Employees ,1.2k
+Isgec Heavy Engineering,Industrial Machinery ,3.9, 1k-5k Employees ,1.2k
+Team Computers,IT Services & Consulting ,3.7, 1k-5k Employees ,1.2k
+Mother Dairy Fruit & Vegetable,Food Processing ,4.2, 1k-5k Employees ,1.2k
+Honda Cars,Automobile ,4.3, 5k-10k Employees ,1.2k
+Johnson & Johnson,Pharma ,4.2, 1k-5k Employees ,1.2k
+Motherson Automotive Technologies and Engineering,Auto Components ,3.9, 501-1k Employees ,1.2k
+Piramal Group,Financial Services ,4, 1k-5k Employees ,1.2k
+Apollo Pharmacy,Pharma ,3.9, 10k-50k Employees ,1.2k
+Arvind Group,Fashion & Textile ,4.1, 10k-50k Employees ,1.2k
+DHL Supply Chain,Logistics ,4.2, 1k-5k Employees ,1.2k
+DHL Supply Chain,Logistics ,4.2, 1k-5k Employees ,1.2k
+NTPC,10k-50k Employees ,4.3, Fortune India 500 ,1.2k
+Aditya Birla Capital,Financial Services ,4, 10k-50k Employees ,1.2k
+PI Industries,Agro Chemicals ,4.1, 1k-5k Employees ,1.2k
+Orange Business,IT Services & Consulting ,4.3, 1k-5k Employees ,1.2k
+Medi Assist India,Insurance ,3.7, 5k-10k Employees ,1.2k
+Exotic Learning,EdTech ,4.5, 51-200 Employees ,1.2k
+V-Guard Industries,Consumer Electronics & Appliances ,4.4, 1k-5k Employees ,1.2k
+HDFC Securities,Financial Services ,3.6, 1k-5k Employees ,1.2k
+DHL Express,Logistics ,4.1, 1k-5k Employees ,1.2k
+CG Power and Industrial Solutions,Electrical Equipment ,3.9, 1k-5k Employees ,1.2k
+Bharat Financial Inclusion,Financial Services ,4.1, 10k-50k Employees ,1.2k
+SBI Securities,Financial Services ,3.8, 5k-10k Employees ,1.2k
+Swaraj Tractors,Automobile ,4.3, 1k-5k Employees ,1.2k
+FactSet,Analytics & KPO ,4, 5k-10k Employees ,1.2k
+First American Corporation,IT Services & Consulting ,3.9, 1k-5k Employees ,1.2k
+Tata Capital,NBFC ,4.1, 5k-10k Employees ,1.2k
+Max Fashion,Retail ,4.1, 5k-10k Employees ,1.2k
+Tata Communications Transformation Services,Telecom ,4.2, 10k-50k Employees ,1.2k
+Aon,Management Consulting ,3.9, 5k-10k Employees ,1.2k
+Trent,Retail ,4.1, 10k-50k Employees ,1.2k
+Saint-Gobain,Building Material ,4.1, 10k-50k Employees ,1.2k
+UBS,Financial Services ,3.9, 5k-10k Employees ,1.2k
+TATA Power,10k-50k Employees ,3.9, Public ,1.1k
+Exela Technologies,IT Services & Consulting ,3.5, 1k-5k Employees ,1.1k
+Haier Appliances India,Consumer Electronics & Appliances ,4, 1k-5k Employees ,1.1k
+Aforeserve,IT Services & Consulting ,3.4, 1k-5k Employees ,1.1k
+Jindal Saw,Building Material ,3.9, 5k-10k Employees ,1.1k
+Globiva,BPO ,3.3, 1k-5k Employees ,1.1k
+Aadhar Housing Finance,Financial Services ,4.1, 1k-5k Employees ,1.1k
+Belrise Industries,Auto Components ,3.8, 10k-50k Employees ,1.1k
+Oracle Cerner,IT Services & Consulting ,3.8, 5k-10k Employees ,1.1k
+Medanta the Medicity,Healthcare ,4.1, 5k-10k Employees ,1.1k
+L&T Energy Hydrocarbon,Oil & Gas ,3.8, 5k-10k Employees ,1.1k
+Biocon Biologics,Biotechnology ,3.8, 1k-5k Employees ,1.1k
+Morgan Stanley,Financial Services ,3.8, 10k-50k Employees ,1.1k
+Star Union Dai-ichi Life Insurance,Insurance ,3.8, 1k-5k Employees ,1.1k
+Jet Airways,Aviation ,4.6, 201-500 Employees ,1.1k
+Hindustan Petroleum,Oil & Gas ,4.1, 5k-10k Employees ,1.1k
+Paisabazaar.com,Internet ,3.6, 1k-5k Employees ,1.1k
